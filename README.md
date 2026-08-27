@@ -2,7 +2,8 @@
 
 Type **"setup codex cli"** in ChatGPT and follow the setup instructions for your computer.
 
-## Code
+## Code to put in terminal
+command + space + "terminal"
 curl -fsSL https://chatgpt.com/codex/install.sh | sh
 codex --version
 codex
